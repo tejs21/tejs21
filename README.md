@@ -21,10 +21,10 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&background=FFFFFF00&center=true&random=false&width=435&lines=Hey+There...;Tejas+Here...)](https://git.io/typing-svg)
+
 ###
 
-<p align="left">I'm Tejas from Earth-21<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning whatever I can<br>- ⚡ In my free time I do something</p>
+<p align="left">- 🔭 I’m a BTech Student<br>- 📚 I'm currently learning whatever I can<br>- ⚡ In my free time I do something</p>
 
 ###
 
