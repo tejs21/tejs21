@@ -14,12 +14,14 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tejs21/count.svg?"  />
+</div>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F70000&background=FFFFFF00&center=true&random=false&width=435&lines=Hey+There...;Tejas+Here...)](https://git.io/typing-svg)
 ###
 
 <p align="left">I'm Tejas from Earth-21<br><br>- 🔭 I’m a Student<br>- 📚 I'm currently learning whatever I can<br>- ⚡ In my free time I do something</p>
@@ -44,10 +46,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
 </div>
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tejs21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
